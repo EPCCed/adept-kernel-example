@@ -17,11 +17,11 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 
-#Adept Kernel Benchmarks - Serial with RAPL example
+# Adept Kernel Benchmarks - Serial with RAPL example
 
 This README describes the serial kernel benchmarks. They are implemented in C. In this version, we have added calls to the Adept RAPL wrapper library to illustrate how it can be used in conjuction with these benchmarks to explore energy usage on Intel processors with RAPL counters.
 
-Please see the README for that library for instructions on sampling the counters required to make this work.
+Please see the README ( https://github.com/EPCCed/adept-rapl-lib/blob/master/README.md ) for that library for instructions on sampling the counters required to make this work. Note that you will need the compiled library to compile this code.
 
 ## BLAS-type benchmarks
 
