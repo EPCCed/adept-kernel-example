@@ -23,6 +23,11 @@ This README describes the serial kernel benchmarks. They are implemented in C. I
 
 Please see the README ( https://github.com/EPCCed/adept-rapl-lib/blob/master/README.md ) for that library for instructions on sampling the counters required to make this work. Note that you will need the compiled library to compile this code.
 
+## Citation & Further Information
+If you would like to cite this work, please cite:
+Nick Johnson et al., "Adept Deliverable D2.3 - Updated Report on Adept Benchmarks", September 2015.
+available at http://www.adept-project.eu/images/Deliverables/Adept%20D2.3.pdf
+
 ## BLAS-type benchmarks
 
 In our BLAS-type benchmarks we implement a few of the most common linear algebra computations.
